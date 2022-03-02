@@ -1,0 +1,5 @@
+std_msgs/String text
+---
+bool result
+---
+int32 feedback
