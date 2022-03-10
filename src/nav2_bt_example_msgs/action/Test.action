@@ -1,5 +1,5 @@
 std_msgs/String text
 ---
-bool result
+bool response
 ---
 int32 feedback
